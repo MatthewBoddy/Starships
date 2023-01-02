@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74238840253",
+    "project_id": "project-starships-81563633",
+    "storage_bucket": "project-starships-81563633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74238840253:android:21116b67fa35ace8b956d4",
+        "android_client_info": {
+          "package_name": "com.HelpToHelpCompany.ProjectStarships"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74238840253-9g1lcv9ni7stgpdbu8q71cd165nofsk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzwNRvGTwMA-4wHg3O4OXfI9vx0hdWP3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74238840253-9g1lcv9ni7stgpdbu8q71cd165nofsk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

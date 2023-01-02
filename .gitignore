@@ -1,0 +1,17 @@
+# Ignore the directories
+.vscode/
+/Library
+/Logs
+/obj
+/Packages
+/Temp
+/UserSettings
+/Assets/Firebase
+Assets/GeneratedLocalRepo
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.7.0/firebase-analytics-unity-8.7.0.aar.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.7.0/firebase-analytics-unity-8.7.0.pom
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.7.0/firebase-analytics-unity-8.7.0.pom.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.7.0/firebase-analytics-unity-8.7.0.aar.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.7.0/firebase-analytics-unity-8.7.0.aar.meta
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.7.0/firebase-analytics-unity-8.7.0.pom
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.7.0/firebase-analytics-unity-8.7.0.pom.meta
