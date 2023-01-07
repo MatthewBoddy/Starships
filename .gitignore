@@ -3,9 +3,9 @@
 /Library
 /Logs
 /obj
-/Packages
+#/Packages
 /Temp
-/UserSettings
+#/UserSettings
 /Assets/Firebase
 Assets/GeneratedLocalRepo
 Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.7.0/firebase-analytics-unity-8.7.0.aar.meta
